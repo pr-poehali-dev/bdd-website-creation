@@ -226,6 +226,13 @@ export default function ViolationSection() {
               Подать жалобу на Госуслугах
             </a>
             <a
+              href="tel:89120704106"
+              className="flex items-center gap-2 bg-bdd-green text-white font-semibold px-5 py-3 rounded-xl hover:opacity-90 transition-colors"
+            >
+              <Icon name="Phone" size={16} />
+              +7 912 070-41-06
+            </a>
+            <a
               href="tel:112"
               className="flex items-center gap-2 bg-bdd-red text-white font-semibold px-5 py-3 rounded-xl hover:bg-bdd-red/90 transition-colors"
             >
