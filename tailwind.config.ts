@@ -45,6 +45,12 @@ export default {
 					DEFAULT: 'hsl(var(--accent))',
 					foreground: 'hsl(var(--accent-foreground))'
 				},
+				bdd: {
+					blue: 'hsl(var(--bdd-blue))',
+					red: 'hsl(var(--bdd-red))',
+					orange: 'hsl(var(--bdd-orange))',
+					green: 'hsl(var(--bdd-green))',
+				},
 				popover: {
 					DEFAULT: 'hsl(var(--popover))',
 					foreground: 'hsl(var(--popover-foreground))'
